@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.9cbcc774.js",
+    "static/js/27.1939f024.chunk.js": "/static/js/27.1939f024.chunk.js",
+    "static/media/Futuristic-Bold.ttf": "/static/media/Futuristic-Bold.a5a831c1b8c8eb1b83ff.ttf",
+    "static/media/Futuristic-SemiBold.ttf": "/static/media/Futuristic-SemiBold.7d928c2670caba5b9dd6.ttf",
+    "static/media/Futuristic-Medium.ttf": "/static/media/Futuristic-Medium.69a9f7bccb45c01931a2.ttf",
+    "static/media/Futuristic-Light.ttf": "/static/media/Futuristic-Light.7f948ddb3029f1193092.ttf",
+    "static/media/Futuristic-Regular.ttf": "/static/media/Futuristic-Regular.148606c1eb703f6e597a.ttf",
+    "static/media/logo.png": "/static/media/logo.4b722bfbf5bc4516265f.png",
+    "index.html": "/index.html",
+    "static/media/black.svg": "/static/media/black.f67a84fb573087f1bc310fc61426ca1a.svg",
+    "static/media/white.svg": "/static/media/white.d6a14c374ce9cd342d9eca73d5d78603.svg"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9cbcc774.js"
+  ]
+}
