@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1c452b66.css",
-    "main.js": "/static/js/main.93db67f9.js",
+    "main.js": "/static/js/main.36b888b2.js",
     "static/js/27.1939f024.chunk.js": "/static/js/27.1939f024.chunk.js",
     "static/media/PortfolioApp.png": "/static/media/PortfolioApp.e6fdd6c21e2426203400.png",
     "static/media/Futuristic-Bold.ttf": "/static/media/Futuristic-Bold.a5a831c1b8c8eb1b83ff.ttf",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.1c452b66.css",
-    "static/js/main.93db67f9.js"
+    "static/js/main.36b888b2.js"
   ]
 }
