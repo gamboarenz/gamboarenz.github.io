@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1c452b66.css",
-    "main.js": "/static/js/main.8be6dde3.js",
+    "main.js": "/static/js/main.cd6dbde9.js",
     "static/js/27.1939f024.chunk.js": "/static/js/27.1939f024.chunk.js",
     "static/media/HRS-FR.png": "/static/media/HRS-FR.9b9cd2b40a2a1b3c621c.png",
     "static/media/PortfolioApp.png": "/static/media/PortfolioApp.e6fdd6c21e2426203400.png",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.1c452b66.css",
-    "static/js/main.8be6dde3.js"
+    "static/js/main.cd6dbde9.js"
   ]
 }
