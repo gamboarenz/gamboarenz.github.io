@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.1c452b66.css",
-    "main.js": "/static/js/main.d50f42a0.js",
+    "main.js": "/static/js/main.b74cd7be.js",
     "static/js/27.1939f024.chunk.js": "/static/js/27.1939f024.chunk.js",
+    "static/media/PortfolioApp.png": "/static/media/PortfolioApp.e6fdd6c21e2426203400.png",
     "static/media/Futuristic-Bold.ttf": "/static/media/Futuristic-Bold.a5a831c1b8c8eb1b83ff.ttf",
     "static/media/Futuristic-SemiBold.ttf": "/static/media/Futuristic-SemiBold.7d928c2670caba5b9dd6.ttf",
     "static/media/Futuristic-Medium.ttf": "/static/media/Futuristic-Medium.69a9f7bccb45c01931a2.ttf",
@@ -16,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.1c452b66.css",
-    "static/js/main.d50f42a0.js"
+    "static/js/main.b74cd7be.js"
   ]
 }
