@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.1c452b66.css",
-    "main.js": "/static/js/main.59788a70.js",
+    "main.js": "/static/js/main.30c07c04.js",
     "static/js/27.1939f024.chunk.js": "/static/js/27.1939f024.chunk.js",
     "static/media/Futuristic-Bold.ttf": "/static/media/Futuristic-Bold.a5a831c1b8c8eb1b83ff.ttf",
     "static/media/Futuristic-SemiBold.ttf": "/static/media/Futuristic-SemiBold.7d928c2670caba5b9dd6.ttf",
     "static/media/Futuristic-Medium.ttf": "/static/media/Futuristic-Medium.69a9f7bccb45c01931a2.ttf",
     "static/media/Futuristic-Light.ttf": "/static/media/Futuristic-Light.7f948ddb3029f1193092.ttf",
     "static/media/Futuristic-Regular.ttf": "/static/media/Futuristic-Regular.148606c1eb703f6e597a.ttf",
-    "static/media/KathleenPascual.png": "/static/media/KathleenPascual.7af153d82ca722dbafd3.png",
-    "static/media/PaulDavid.png": "/static/media/PaulDavid.c5a335f715dd566088f4.png",
     "static/media/HRIS-FR.png": "/static/media/HRIS-FR.1146bdd57da9a9716ffe.png",
     "static/media/White.png": "/static/media/White.bda339e90b010813e30c.png",
     "static/media/Black.png": "/static/media/Black.d176762af6703cff2f51.png",
@@ -23,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.1c452b66.css",
-    "static/js/main.59788a70.js"
+    "static/js/main.30c07c04.js"
   ]
 }
