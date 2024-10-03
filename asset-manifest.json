@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1c452b66.css",
-    "main.js": "/static/js/main.a4c27b0e.js",
+    "main.js": "/static/js/main.0e1e58ce.js",
     "static/js/27.1939f024.chunk.js": "/static/js/27.1939f024.chunk.js",
     "static/media/Futuristic-Bold.ttf": "/static/media/Futuristic-Bold.a5a831c1b8c8eb1b83ff.ttf",
     "static/media/Futuristic-SemiBold.ttf": "/static/media/Futuristic-SemiBold.7d928c2670caba5b9dd6.ttf",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.1c452b66.css",
-    "static/js/main.a4c27b0e.js"
+    "static/js/main.0e1e58ce.js"
   ]
 }
